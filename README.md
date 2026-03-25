@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ashenafi 👋
 
-<!--
-**ashenafi-messle/ashenafi-messle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at University of Gondar  
+💡 Passionate about Software Development & AI  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔹 Digital Queue System (Java Desktop App)
+- 🔹 Echohive Social Media Platform (React + Node)
+- 🔹 Digital Equb System
+- 🔹 Digital Cafteria system 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java, JavaScript, Python  
+- React.js, Node.js  
+- MongoDB, Postgre sql
+- Machine Learning Basics
+- Flutter 
+
+## 🎯 Goal
+To build scalable systems that solve real-world problems using software and AI.
